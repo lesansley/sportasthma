@@ -2,7 +2,7 @@
 ## Installation
 This respository contains an ISO image named ```Sport Asthma``` that will install the Windows XP software to run an EVH testing application.
 
-Download the Sport Asthma file to your local hard drive.
+Download the Sport Asthma file to your local hard drive and create an install CD from the image.
 
 To create an install CD from the ISO image follow the instructions relevant to you operating system:
 
